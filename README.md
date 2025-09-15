@@ -83,8 +83,8 @@
 
 ---
 
-## 📈 Achievements & Visitors
-![Trophies](https://github-profile-trophy.vercel.app/?username=ParasSukheja&theme=tokyonight)  
+## 📈 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=ParasSukheja&theme=radical) 
 
 ---
 
