@@ -39,7 +39,7 @@
 - 📈 **Power BI:** Sales & HR Analytics Dashboards *(coming soon)*  
 - 🤖 **Python:** Healthcare Appointment No-Show Analysis  
 - 💬 **NLP + ML:** Customer Feedback Sentiment Analysis + Dashboard *(coming soon)*  
-- 🎮 **Java (Past Projects):** Basic Games & Applications  
+- 🎮 **Java (Past Projects):** [Basic Games & Applications](Java_Games_and_Apps)
 
 *(More projects on my [GitHub Repositories](https://github.com/ParasSukheja?tab=repositories))*  
 
