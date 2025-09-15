@@ -35,11 +35,11 @@
 
 ## 🔨 Projects
 - 📊 **Excel:** Supermarket Sales Dashboard  
-- 🗄️ **SQL:** E-Commerce Sales Analysis  
+- 🗄️ **SQL:** E-Commerce Sales Analysis
 - 📈 **Power BI:** Sales & HR Analytics Dashboards *(coming soon)*  
 - 🤖 **Python:** Healthcare Appointment No-Show Analysis  
 - 💬 **NLP + ML:** Customer Feedback Sentiment Analysis + Dashboard *(coming soon)*  
-- 🎮 **Java (Past Projects):** [Basic Games & Applications](Java_Past_Projects/Java_Games_and_Apps)
+- 🎮 **Java (Past Projects):** Basic Games & Applications
 
 *(More projects on my [GitHub Repositories](https://github.com/ParasSukheja?tab=repositories))*  
 
