@@ -69,22 +69,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParasSukheja&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParasSukheja&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParasSukheja&theme=tokyonight)  
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-sukheja-689822327/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParasSukheja)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukheja.paras@gmail.com)  
-
----
-
-## 📈 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=ParasSukheja&theme=radical) 
 
 ---
 
