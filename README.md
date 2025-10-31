@@ -15,11 +15,11 @@
 
 ---
 
-💻 Current Skills: **Excel | SQL | Python**
+💻 Current Skills: **Excel | SQL | Python | Statistics**
 
 🖥️ Past Programming: **Java**  
 
-📚 Learning: **Statistics | Machine Learning | Power BI | Tableau | AI | Deep Learning**
+📚 Learning: **Machine Learning | Power BI | Tableau | AI | Deep Learning**
 
 📚 Currently pursuing: **Post-Graduation Diploma in Data Science and Analytics @ Imarticus Learning**  
 
@@ -28,37 +28,37 @@
 ## 🚀 About Me
 - 🎓 Bachelor's Degree in Computer Applications, Panjab University, Chandigarh  
 - 🧑‍💻 My programming journey started with **Java**, where I built basic games and apps.  
-- 📊 Now focused on **Data Analytics & Data Science**, using **Excel, SQL, and Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly)**  
-- 📈 Learning advanced concepts in **Statistics, Machine Learning, Deep Learning, and AI**  
-- 🌱 Exploring tools like **Power BI & Tableau** for impactful data visualization 
+- 📊 Now focused on **Data Analytics & Data Science**, using **Excel, SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly)**  
+- 📈 Completed **Statistics** as a foundation for data-driven decision-making and predictive modeling.  
+- 🌱 Currently learning **Machine Learning, Deep Learning, AI**, and exploring tools like **Power BI & Tableau** for impactful data visualization.  
+
 ---
 
 ## 🔨 Projects
 - 📊 **Excel:** Supermarket Sales Dashboard  
-- 🗄️ **SQL:** E-Commerce Sales Analysis
-- 📈 **Power BI:** Sales & HR Analytics Dashboards *(coming soon)*  
+- 🗄️ **SQL:** E-Commerce Sales Analysis  
+- 📈 **Power BI:** *(coming soon)*  
 - 🤖 **Python:** Healthcare Appointment No-Show Analysis  
-- 💬 **NLP + ML:** Customer Feedback Sentiment Analysis + Dashboard *(coming soon)*  
-- 🎮 **Java (Past Projects):** Basic Games & Applications
+- 💬 **NLP + ML:** *(coming soon)*  
+- 🎮 **Java (Past Projects):** Basic Games & Applications  
 
 *(More projects on my [GitHub Repositories](https://github.com/ParasSukheja?tab=repositories))*  
 
 ---
 
 ## 📅 Learning Roadmap
-- 📊 **Statistics** → foundation for ML & AI   
-- 🤖 **Machine Learning** → supervised & unsupervised models
-- 📈 **Power BI & Tableau** → advanced visualization & dashboards 
+- 🤖 **Machine Learning** → supervised & unsupervised models  
+- 📈 **Power BI & Tableau** → advanced visualization & dashboards  
 - 💬 **Natural Language Processing (NLP)** → text & sentiment analysis  
 - 🧠 **Deep Learning & AI** → neural networks, advanced models  
- 
+
 ---
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, Java  
 **Visualization:** Excel, Power BI, Tableau  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Concepts:** Statistics, Machine Learning, Deep Learning, NLP, AI   
+**Concepts:** **Statistics**, Machine Learning, Deep Learning, NLP, AI  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -77,4 +77,3 @@
 ---
 
 ⭐️ *“Data is not just numbers; it’s the story waiting to be told.”*
-
