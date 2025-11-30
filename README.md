@@ -15,11 +15,11 @@
 
 ---
 
-💻 Current Skills: **Excel | SQL | Python | Statistics**
+💻 Current Skills: **Excel | SQL | Python | Statistics | Power BI**
 
 🖥️ Past Programming: **Java**  
 
-📚 Learning: **Machine Learning | Power BI | Tableau | AI | Deep Learning**
+📚 Learning: **Machine Learning | Tableau | AI | Deep Learning**
 
 📚 Currently pursuing: **Post-Graduation Diploma in Data Science and Analytics @ Imarticus Learning**  
 
@@ -29,15 +29,16 @@
 - 🎓 Bachelor's Degree in Computer Applications, Panjab University, Chandigarh  
 - 🧑‍💻 My programming journey started with **Java**, where I built basic games and apps.  
 - 📊 Now focused on **Data Analytics & Data Science**, using **Excel, SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly)**  
-- 📈 Completed **Statistics** as a foundation for data-driven decision-making and predictive modeling.  
-- 🌱 Currently learning **Machine Learning, Deep Learning, AI**, and exploring tools like **Power BI & Tableau** for impactful data visualization.  
+- 📈 Completed **Statistics** for strong analytical and predictive skills.  
+- 📊 Completed **Power BI**, including data modeling, DAX, relationships, KPIs & dashboards.  
+- 🌱 Currently learning **Machine Learning, Deep Learning, AI**, and exploring **Tableau** for advanced visualization.  
 
 ---
 
 ## 🔨 Projects
 - 📊 **Excel:** Supermarket Sales Dashboard  
 - 🗄️ **SQL:** E-Commerce Sales Analysis  
-- 📈 **Power BI:** *(coming soon)*  
+- 📈 **Power BI:** Sales & HR Analytics Dashboards  
 - 🤖 **Python:** Healthcare Appointment No-Show Analysis  
 - 💬 **NLP + ML:** *(coming soon)*  
 - 🎮 **Java (Past Projects):** Basic Games & Applications  
@@ -48,7 +49,7 @@
 
 ## 📅 Learning Roadmap
 - 🤖 **Machine Learning** → supervised & unsupervised models  
-- 📈 **Power BI & Tableau** → advanced visualization & dashboards  
+- 📊 **Tableau** → interactive dashboards, storytelling  
 - 💬 **Natural Language Processing (NLP)** → text & sentiment analysis  
 - 🧠 **Deep Learning & AI** → neural networks, advanced models  
 
@@ -56,9 +57,9 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, Java  
-**Visualization:** Excel, Power BI, Tableau  
+**Visualization:** Excel, **Power BI**, Tableau  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Concepts:** **Statistics**, Machine Learning, Deep Learning, NLP, AI  
+**Concepts:** Statistics, Machine Learning, Deep Learning, NLP, AI  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
