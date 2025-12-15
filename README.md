@@ -38,7 +38,7 @@
 ## 🔨 Projects
 - 📊 **Excel:** Supermarket Sales Dashboard  
 - 🗄️ **SQL:** E-Commerce Sales Analysis  
-- 📈 **Power BI:** Sales & HR Analytics Dashboards  
+- 📈 **Power BI:** Banking Analytics Dashboard  
 - 🤖 **Python:** Healthcare Appointment No-Show Analysis  
 - 💬 **NLP + ML:** *(coming soon)*  
 - 🎮 **Java (Past Projects):** Basic Games & Applications  
@@ -57,7 +57,7 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, Java  
-**Visualization:** Excel, **Power BI**, Tableau  
+**Visualization:** Excel, Power BI, Tableau  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 **Concepts:** Statistics, Machine Learning, Deep Learning, NLP, AI  
 
