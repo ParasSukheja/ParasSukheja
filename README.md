@@ -15,11 +15,11 @@
 
 ---
 
-💻 Current Skills: **Excel | SQL | Python | Statistics | Power BI**
+💻 Current Skills: **Excel | SQL | Python | Statistics | Power BI | Machine Learning**
 
 🖥️ Past Programming: **Java**  
 
-📚 Learning: **Machine Learning | Tableau | AI | Deep Learning**
+📚 Learning: **AI | Deep Learning**
 
 📚 Currently pursuing: **Post-Graduation Diploma in Data Science and Analytics @ Imarticus Learning**  
 
@@ -29,9 +29,9 @@
 - 🎓 Bachelor's Degree in Computer Applications, Panjab University, Chandigarh  
 - 🧑‍💻 My programming journey started with **Java**, where I built basic games and apps.  
 - 📊 Now focused on **Data Analytics & Data Science**, using **Excel, SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly)**  
-- 📈 Completed **Statistics** for strong analytical and predictive skills.  
+- 📈 Completed **Statistics, Machine Learning** for strong analytical and predictive skills.  
 - 📊 Completed **Power BI**, including data modeling, DAX, relationships, KPIs & dashboards.  
-- 🌱 Currently learning **Machine Learning, Deep Learning, AI**, and exploring **Tableau** for advanced visualization.  
+- 🌱 Currently learning **Deep Learning, AI** 
 
 ---
 
@@ -47,9 +47,7 @@
 
 ---
 
-## 📅 Learning Roadmap
-- 🤖 **Machine Learning** → supervised & unsupervised models  
-- 📊 **Tableau** → interactive dashboards, storytelling  
+## 📅 Learning Roadmap 
 - 💬 **Natural Language Processing (NLP)** → text & sentiment analysis  
 - 🧠 **Deep Learning & AI** → neural networks, advanced models  
 
