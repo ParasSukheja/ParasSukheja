@@ -5,7 +5,7 @@
 
 <!-- Aspiring Data Analyst & Data Scientist -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&width=700&lines=🎯+Aspiring+Data+Analyst+%26+Data+Scientist" alt="Typing Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&width=700&lines=+Aspiring+Data+Analyst+%26+Data+Scientist" alt="Typing Title" />
 </p>
 
 <!-- Welcome to GitHub Profile -->
