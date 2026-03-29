@@ -5,7 +5,7 @@
 
 <!-- Aspiring Data Analyst & Data Scientist -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&width=700&lines=+Aspiring+Data+Analyst+%26+Data+Scientist" alt="Typing Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&width=700&lines=Data+Science+%26+Analytics+Professional" alt="Typing Title" />
 </p>
 
 <!-- Welcome to GitHub Profile -->
@@ -19,19 +19,16 @@
 
 🖥️ Past Programming: **Java**  
 
-📚 Learning: **AI | Deep Learning**
-
-📚 Currently pursuing: **Post-Graduation Diploma in Data Science and Analytics @ Imarticus Learning**  
-
 ---
 
 ## 🚀 About Me
 - 🎓 Bachelor's Degree in Computer Applications, Panjab University, Chandigarh  
-- 🧑‍💻 My programming journey started with **Java**, where I built basic games and apps.  
-- 📊 Now focused on **Data Analytics & Data Science**, using **Excel, SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly)**  
-- 📈 Completed **Statistics, Machine Learning** for strong analytical and predictive skills.  
-- 📊 Completed **Power BI**, including data modeling, DAX, relationships, KPIs & dashboards.  
-- 🌱 Currently learning **Deep Learning, AI** 
+- 🎓 Completed **PG Diploma in Data Science & Analytics (Imarticus Learning)**  
+- 🧑‍💻 Started programming with **Java**, building basic games & applications  
+- 📊 Now focused on **Data Analytics & Data Science** using **Excel, SQL, Python**  
+- 📈 Strong foundation in **Statistics & Machine Learning**  
+- 📊 Skilled in **Power BI** (Data Modeling, DAX, KPIs, Interactive Dashboards)  
+- 🌱 Currently exploring **Deep Learning & AI**  
 
 ---
 
@@ -40,7 +37,7 @@
 - 🗄️ **SQL:** E-Commerce Sales Analysis  
 - 📈 **Power BI:** Banking Analytics Dashboard  
 - 🤖 **Python:** Healthcare Appointment No-Show Analysis  
-- 💬 **NLP + ML:** *(coming soon)*  
+- 🚚 **Capstone Project:** Logistics & Supply Chain Analytics Dashboard *(Excel, SQL, Python, Power BI)*  
 - 🎮 **Java (Past Projects):** Basic Games & Applications  
 
 *(More projects on my [GitHub Repositories](https://github.com/ParasSukheja?tab=repositories))*  
@@ -48,23 +45,22 @@
 ---
 
 ## 📅 Learning Roadmap 
-- 💬 **Natural Language Processing (NLP)** → text & sentiment analysis  
-- 🧠 **Deep Learning & AI** → neural networks, advanced models  
+- 🧠 **Deep Learning** → neural networks, advanced models  
+- 🤖 **Artificial Intelligence** → real-world intelligent systems  
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, Java  
-**Visualization:** Excel, Power BI, Tableau  
+**Visualization:** Excel, Power BI  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Concepts:** Statistics, Machine Learning, Deep Learning, NLP, AI  
+**Concepts:** Statistics, Machine Learning, Deep Learning, AI  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
 ---
 
