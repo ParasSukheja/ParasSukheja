@@ -33,11 +33,11 @@
 ---
 
 ## 🔨 Projects
+- 🚚 **Capstone Project:** Logistics & Supply Chain Analytics Dashboard *(Excel, SQL, Python, Power BI)* 
 - 📊 **Excel:** Supermarket Sales Dashboard  
 - 🗄️ **SQL:** E-Commerce Sales Analysis  
 - 📈 **Power BI:** Banking Analytics Dashboard  
 - 🤖 **Python:** Healthcare Appointment No-Show Analysis  
-- 🚚 **Capstone Project:** Logistics & Supply Chain Analytics Dashboard *(Excel, SQL, Python, Power BI)*  
 - 🎮 **Java (Past Projects):** Basic Games & Applications  
 
 *(More projects on my [GitHub Repositories](https://github.com/ParasSukheja?tab=repositories))*  
