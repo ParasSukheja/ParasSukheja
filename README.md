@@ -40,7 +40,7 @@
 - 🤖 **Python:** Healthcare Appointment No-Show Analysis  
 - 🎮 **Java (Past Projects):** Basic Games & Applications  
 
-[![Explore My Projects](https://img.shields.io/badge/Explore%20My%20Projects-%20Paras%20Sukheja-4C6EF5?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2F33)](https://github.com/ParasSukheja?tab=repositories)
+[![Explore My Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-%20Paras%20Sukheja-4C6EF5?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2F33)](https://github.com/ParasSukheja?tab=repositories)
 
 ---
 
