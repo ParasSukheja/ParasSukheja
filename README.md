@@ -53,7 +53,7 @@
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, Java  
 **Visualization:** Excel, Power BI  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn  
 **Concepts:** Statistics, Machine Learning, Deep Learning, AI  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,7 +61,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ---
 
 ## 📫 Connect with Me
